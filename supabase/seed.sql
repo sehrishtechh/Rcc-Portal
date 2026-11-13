@@ -1,0 +1,2 @@
+-- Development-only seed data belongs here. Business users and credentials are
+-- intentionally not seeded. The initial organization is created by migration.
